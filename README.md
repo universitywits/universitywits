@@ -1,6 +1,6 @@
 #Universitywits 
 
-# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm Universitywits&nbsp;
+# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/UNIVERSITYWITS/UNIVERSITYWITS/UNIVERSITYWITS-OFFICIAL/media/Hi.gif" width="48px"></a> I'm Universitywits&nbsp;
 
 ![My card name](https://cardivo.vercel.app/api?name=Universitywits-%20&description=Hi,%20I'm%20a%20moderate%20Developer%20😎&image=https://i.imgur.com/NyoTgJE.png&backgroundColor=#008000&github=Universitywits&&pattern=leaf&colorPattern=%25eaeaea)
 
