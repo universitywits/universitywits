@@ -25,8 +25,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=universitywits&theme=dark" alt="universitywits" /></p>
 </p>
 
-<p align="left"> <a href="https://twitter.com/Karthikeditz123" target="blank"><img src="https://img.shields.io/twitter/follow/Karthikeditz123?logo=twitter&style=for-the-badge" alt="Karthikeditz123" /></a> </p>
-
 - 🔭 I’m currently working on [White Devil] (https://github.com/terror-boy/WhiteDevil)
 
 - 💬 Ask me about **ME**
